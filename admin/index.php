@@ -7,6 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<style>
+    h1{
+        background-color: aqua;
+    }
+</style>
 <body>
     <h1>Meu primeiro comit</h1>
 </body>
